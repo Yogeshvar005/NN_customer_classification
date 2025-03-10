@@ -84,8 +84,7 @@ def train_model(model, train_loader,criterion,optimizer,epochs):
 
 ## Dataset Information
 
-![image](https://github.com/user-attachments/assets/baac52da-3e7f-44f7-8b26-c15f921d0915)
-
+![image](https://github.com/user-attachments/assets/21662dce-2aa1-4e6f-8a35-d9632d44f354)
 
 ## OUTPUT
 
